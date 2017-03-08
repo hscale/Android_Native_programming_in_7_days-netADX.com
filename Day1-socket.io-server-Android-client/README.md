@@ -4,7 +4,7 @@
 This is the Socket.IO v1.x Client Library for Java, which is simply ported from the [JavaScript client](https://github.com/socketio/socket.io-client).
 
 See also:
-
+- [Android simple chat test](https://github.com/hscale/Android_Native_programming_in_7_days-netADX.com/Day1-socket.io-server-Android-client)
 - [Android chat demo](https://github.com/nkzawa/socket.io-android-chat)
 - [engine.io-client-java](https://github.com/socketio/engine.io-client-java)
 
